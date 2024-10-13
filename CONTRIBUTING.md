@@ -37,7 +37,7 @@ git push origin main
 - Follow the naming conventions and keep your code well-documented.
 - Make sure the extension works before submitting your pull request.
 - Include a **README.md** inside your extension folder explaining what your extension does and how to use it.
-- Star this repository and give me a follow if you liked this idea/
+- Star this repository and give me a follow if you liked this idea!
 
 I look forward to seeing your contributions!
 Happy Developing!
