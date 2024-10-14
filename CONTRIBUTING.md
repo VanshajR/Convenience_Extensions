@@ -10,8 +10,8 @@ Click the Fork button at the top of this repository to create your own copy.
 #### 2. Clone your forked repository and navigate to it:
 In your terminal, run:
   ```bash
-  git clone https://github.com/VanshajR/Convenience_Extensions.git
-  cd Convenience_Extensions
+  git clone https://github.com/VanshajR/Convenience_Extensions_HF2024.git
+  cd Convenience_Extensions_HF2024
   ```
 
 #### 3. Create a new folder for your extension:
